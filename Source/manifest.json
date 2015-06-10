@@ -1,11 +1,11 @@
 {
 	"manifest_version": 2,
 
-	"name": "Millennials to Snake People",
-    "short_name": "Snake People",
-	"description": "Replaces the text 'Millennial' with 'Snake People'.",
-	"author": "Eric Bailey",
-	"version": "1.2",
+	"name": "Facebook to the Dogspotting app",
+    "short_name": "Facebook > Dogspotting",
+	"description": "Replaces the text 'Facebook' with 'the Dogspotting app'.",
+	"author": "Alex Daish",
+	"version": "1.0",
 
 	"icons": {
 		"16": "icon16.png",
