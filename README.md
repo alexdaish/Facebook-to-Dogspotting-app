@@ -6,7 +6,7 @@ Chrome extension that reflects the reality for dogspotters.
 ## Installation
 
 1. Add the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/fpofjlnlgajjpdfbmpelgopkpbmfbcka) (Chrome only for now)
-- [Free your mind](https://www.google.com/search?q=Facebook)
+- [Realise the truth](https://www.google.com/search?q=Facebook)
 
 
 ## Also
@@ -19,7 +19,7 @@ This is all code highly borrowed ie. stolen from [Eric Bailey](https://github.co
 ## Screenshots
 
 ### Installed Chrome Extension
-![](https://i.imgur.com/xAzfhw8.png)
+![](http://i.imgur.com/qgwoNcD.png)
 
 ### The New Yorker
 [![The New Yorker](http://i.imgur.com/S8o1uQh.jpg)](http://www.newyorker.com/magazine/2010/09/20/the-face-of-facebook)
